@@ -1,0 +1,13 @@
+{
+  "name": "destinyy-auto-role",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Discord auto-role bot for /destinyy custom status or the server's primary tag",
+  "main": "index.js",
+  "scripts": { "start": "node index.js" },
+  "engines": { "node": ">=20.0.0" },
+  "dependencies": {
+    "discord.js": "14.25.1",
+    "dotenv": "^16.4.7"
+  }
+}

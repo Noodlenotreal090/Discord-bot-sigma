@@ -1,0 +1,6 @@
+node_modules/
+.env
+ownership.json
+ownership.json.tmp
+protected.json
+protected.json.tmp
